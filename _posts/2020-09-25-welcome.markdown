@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Welcome
+date:   2020-09-25 19:29:55 +0000
+image:  callsignsign.jpg
+tags:   reprint shack projects
+---
+Welcome to another post in my "reprint" series!  As a kick off to the newly updated blog, I wanted to start by republishing some of my most visited posts, but with updated material.  
+
+This "reprint" is of the first blog post I ever wrote.  It's also one of my most visited, but I suspect that is primarily because its where you land if you want to be able to click through the progress of my shack build in sequential time-order.  Since this post is really the start of a thread, I'll send you right over to the old post from here, so that if you are so inclined you can spend the time clicking through my shack's history.  Enjoy!
+
+#### Welcome
+
+<small>First Published 11/5/2015</small>
+
+[Check it out over on my legacy blog.](/legacyBlog/www.n3vem.com/blog/welcome.html)
