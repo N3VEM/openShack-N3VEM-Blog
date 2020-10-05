@@ -17,7 +17,7 @@ To start, here's the quick way if you want to edit existing posts or create new 
 
 The files in this repository are used to generate the static pages for the blog.  The blog posts are generate from files written in [Markdown](https://www.markdownguide.org/) that are stored in the '_posts' folder. If you would like to make edits to an existing post, open the corresponding file, and make your edits. Add appropriate comments about the edits you made, create a new branch, and start a pull requests.  I'll review these and merge things in as I see fit.  If you are a git pro, you can feel free to clone the repository, make edits locally, push them up, etc. etc.
 
-If you would like to write a guest post, create a markdown file using one of the existing posts as a template for the naming convention, and for the "front matter" (the stuff in the header.)  Add your file to '_posts' and create a pull request - I'll review/merge/publish as appropriate.  If you post contains pictures, add the picture files to the 'img' folder using the same methods.
+If you would like to write a guest post, create a markdown file using one of the existing posts as a template for the naming convention, and for the "front matter" (the stuff in the header.)  Add your file to '_posts' and create a pull request - I'll review/merge/publish as appropriate.  If your post contains pictures, add the picture files to the 'img' folder using the same methods.
 
 ### Fancier stuff
 
